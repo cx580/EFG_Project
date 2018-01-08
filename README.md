@@ -7,7 +7,6 @@ The centrol logging solution based on graylog, elastic search and filebeat。
 ![logo](https://github.com/cx580/EFG_Project/blob/master/pic/architecture.png)
 
 ### Log Spec
---
 
 The log is formatted with `JSON`.
 

@@ -6,6 +6,8 @@ The central logging solution based on graylog, elastic search and filebeat。
 
 ![logo](https://github.com/cx580/EFG_Project/blob/master/pic/architecture.png)
 
+### [User Story](https://github.com/cx580/EFG_Project/wiki/User-Story)
+
 ### Log Spec
 
 The log is formatted with `JSON`.
@@ -30,6 +32,7 @@ The log contains tree parts:
 
 - Component Name
 - Traceid (From APM, optional)
+- Spanid(From APM, optional)
 - Other headers, for example: Userid, Orderid, Requestid..
 
 

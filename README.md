@@ -19,6 +19,7 @@ The log contains tree parts:
 #### Log common header part
 
 - Timestamp
+- Version (eg: 1.0.0)
 - Threadid
 - Log Level 
 - Host IP
@@ -29,7 +30,7 @@ The log contains tree parts:
 
 - Component Name
 - Traceid (From APM, optional)
-- Other headers, for example: userid, orderid..
+- Other headers, for example: Userid, Orderid, Requestid..
 
 
 ### Reference
@@ -37,5 +38,6 @@ The log contains tree parts:
 - [Graylog Doc](http://docs.graylog.org)
 - [Filebeat](https://www.elastic.co/products/beats/filebeat)
 - [Elastic中文开源书籍](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+- [elk stack权威指南](https://elkguide.elasticsearch.cn)
 
 

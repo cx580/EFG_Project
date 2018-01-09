@@ -38,6 +38,7 @@ The log contains tree parts:
 - [Graylog Doc](http://docs.graylog.org)
 - [Filebeat](https://www.elastic.co/products/beats/filebeat)
 - [Elastic中文开源书籍](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
-- [elk stack权威指南](https://elkguide.elasticsearch.cn)
+- [ELK Stack权威指南](https://elkguide.elasticsearch.cn)
+- [Elastic Search 中文社区](https://elasticsearch.cn)
 
 
